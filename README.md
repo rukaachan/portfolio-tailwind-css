@@ -1,0 +1,1 @@
+This project is a portfolio website developed using Tailwind CSS. The purpose of this project is to apply the knowledge gained from learning Tailwind CSS in the creation of a responsive and modern web interface.
